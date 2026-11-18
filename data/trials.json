@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T11:30:00",
+ "updatedAt": "2026-11-18T11:50:00",
  "owner": "이준석",
  "items": [
   {
@@ -769,6 +769,22 @@
    "taxNotice": false,
    "url": "https://gift.kakao.com/giftbox/trial-campaign/6adf047da4b87819245f0575",
    "note": "캠페인 6adf047da4b87819245f0575 · 발송 12-02 이내 · 발표 11-30(스케줄 외 날짜)"
+  },
+  {
+   "id": "kakao-6adeae8c",
+   "platform": "kakao",
+   "title": "데데리트 따뜻한 울 체크 머플러 (키링 증정)",
+   "option": "01. 블루브라운 체크 울 머플러",
+   "appliedAt": "2026-11-18",
+   "announceAt": "2026-11-30",
+   "reviewStart": "2026-12-02",
+   "reviewEnd": "2026-12-17",
+   "winners": 5,
+   "applicants": 1895,
+   "status": "applied",
+   "taxNotice": false,
+   "url": "https://gift.kakao.com/giftbox/trial-campaign/6adeae8ca5569c74e6980d21",
+   "note": "캠페인 6adeae8ca5569c74e6980d21 · 발송 12-02 이내 · 발표 11-30(스케줄 외 날짜)"
   }
  ]
 }
