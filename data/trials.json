@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T15:50:00",
+  "updatedAt": "2026-11-20T12:05:00",
   "owner": "이준석",
   "items": [
     {
@@ -949,6 +949,50 @@
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50042?gf=M",
       "note": "이벤트 50042 · 42,000원"
+    },
+    {
+      "id": "musinsa-50221",
+      "platform": "musinsa",
+      "title": "엔비에이 팀X팀 항공 RDS 다운 2컬러",
+      "option": "BLACK / BLACK_XL",
+      "appliedAt": "2026-11-20",
+      "announceAt": "2026-11-30",
+      "winners": 50,
+      "applicants": 2839,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/50221?gf=M",
+      "note": "이벤트 50221 · 329,000원 · 발송 12-02 예정"
+    },
+    {
+      "id": "musinsa-49597",
+      "platform": "musinsa",
+      "title": "마크곤잘레스 엔젤 숏 퍼퍼 다운 자켓",
+      "option": "BLACK / BLACK / 105",
+      "appliedAt": "2026-11-20",
+      "announceAt": "2026-11-30",
+      "reviewStart": "2026-12-04",
+      "reviewEnd": "2026-12-18",
+      "winners": 10,
+      "applicants": 3242,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/49597?gf=M",
+      "note": "이벤트 49597 · 239,000원 · 발송 12-02 예정"
+    },
+    {
+      "id": "musinsa-49590",
+      "platform": "musinsa",
+      "title": "마크곤잘레스 엔젤 샤기 플리스 자켓",
+      "option": "BLACK / BLACK / 105",
+      "appliedAt": "2026-11-20",
+      "announceAt": "2026-11-30",
+      "winners": 20,
+      "applicants": 2935,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/49590?gf=M",
+      "note": "이벤트 49590 · 129,000원"
     }
   ]
 }
