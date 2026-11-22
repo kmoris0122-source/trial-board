@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:50:00",
+  "updatedAt": "2026-11-22T15:50:00",
   "owner": "이준석",
   "items": [
     {
@@ -1345,6 +1345,86 @@
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/49022?gf=M",
       "note": "리베르 퍼퓸 핸드크림 · 생활잡화 · 17,000원"
+    },
+    {
+      "id": "musinsa-50082",
+      "platform": "musinsa",
+      "title": "마인드브릿지 두굿 꾸뛰르 캐시미어 오버핏 발마칸 롱 코트 3컬러",
+      "option": "BK / 105",
+      "appliedAt": "2026-11-22",
+      "announceAt": "2026-11-24",
+      "reviewStart": "2026-11-28",
+      "reviewEnd": "2026-12-12",
+      "winners": 5,
+      "applicants": 11994,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/50082?gf=M",
+      "note": "마인드브릿지 두굿 캐시미어 발마칸 롱 코트 · 아우터 · 299,000원 (11-22 마감건)"
+    },
+    {
+      "id": "musinsa-49493",
+      "platform": "musinsa",
+      "title": "바토즈 맘모스 블랙",
+      "option": "270",
+      "appliedAt": "2026-11-22",
+      "announceAt": "2026-11-30",
+      "reviewStart": "2026-12-04",
+      "reviewEnd": "2026-12-18",
+      "winners": 5,
+      "applicants": 6253,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/49493?gf=M",
+      "note": "바토즈 맘모스 · 신발 · 219,000원"
+    },
+    {
+      "id": "musinsa-49106",
+      "platform": "musinsa",
+      "title": "더그린랩 포우 퍼 하이넥 무스탕 쟈켓 (블랙/아이보리)",
+      "option": "FREE (남성용)",
+      "appliedAt": "2026-11-22",
+      "announceAt": "2026-11-30",
+      "reviewStart": "2026-12-04",
+      "reviewEnd": "2026-12-18",
+      "winners": 5,
+      "applicants": 8136,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/49106?gf=M",
+      "note": "더그린랩 포우 퍼 무스탕 · 아우터 · 199,000원"
+    },
+    {
+      "id": "musinsa-49526",
+      "platform": "musinsa",
+      "title": "푸마 스피드캣 프리미엄 아이보리:매트실버 (403902-01)",
+      "option": "270",
+      "appliedAt": "2026-11-22",
+      "announceAt": "2026-11-30",
+      "reviewStart": "2026-12-04",
+      "reviewEnd": "2026-12-18",
+      "winners": 5,
+      "applicants": 11444,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/49526?gf=M",
+      "note": "푸마 스피드캣 · 신발 · 159,000원"
+    },
+    {
+      "id": "musinsa-50280",
+      "platform": "musinsa",
+      "title": "지쿤 빈티지 다잉 데미지 로고 자수 후드 집업 2컬러 (GEE267-125)",
+      "option": "차콜 / XL",
+      "appliedAt": "2026-11-22",
+      "announceAt": "2026-11-30",
+      "reviewStart": null,
+      "reviewEnd": null,
+      "winners": 5,
+      "applicants": 6031,
+      "status": "applied",
+      "taxNotice": true,
+      "url": "https://www.musinsa.com/preuser/events/50280?gf=M",
+      "note": "지쿤 후드 집업 · 상의 · 109,000원 · 후기 기간 미확인"
     }
   ]
 }
