@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:50:00",
+  "updatedAt": "2026-11-23T14:20:00",
   "owner": "이준석",
   "items": [
     {
@@ -29,10 +29,10 @@
       "reviewEnd": "2026-12-11",
       "winners": 20,
       "applicants": 4951,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50130?gf=M",
-      "note": "이벤트 50130"
+      "note": "2026-11-23 발표: 미당첨 (무신사 활동내역 종료·미 당첨 표기, 계정 전체 당첨 0) · 이벤트 50130"
     },
     {
       "id": "musinsa-50115",
@@ -173,10 +173,10 @@
       "reviewEnd": "",
       "winners": 70,
       "applicants": 9655,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6ac6f0b18d39859fc7444ff5",
-      "note": "가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집"
+      "note": "2026-11-23 발표: 미당첨 (모집 70명 / 신청 9,655명, applyStatus=LOSE·campaignStatus=SHIPPING) · 배송지: 집"
     },
     {
       "id": "kakao-6ac59a30",
@@ -317,10 +317,10 @@
       "reviewEnd": "",
       "winners": 5,
       "applicants": 6686,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6ad0401088476511096673a3",
-      "note": "차량용품 · 가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집"
+      "note": "차량용품 · 2026-11-23 발표: 미당첨 (모집 5명 / 신청 6,686명, applyStatus=LOSE·campaignStatus=SHIPPING) · 배송지: 집"
     },
     {
       "id": "kakao-6acb89bf",
@@ -413,10 +413,10 @@
       "reviewEnd": "",
       "winners": 50,
       "applicants": 4446,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6ad01f79a6b18012e9db21fa",
-      "note": "공용 · 가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집"
+      "note": "공용 · 2026-11-23 발표: 미당첨 (모집 50명 / 신청 4,446명, applyStatus=LOSE·campaignStatus=REVIEW_WRITING) · 배송지: 집"
     },
     {
       "id": "kakao-6abf5538",
