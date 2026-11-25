@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:10:00",
+  "updatedAt": "2026-11-25T14:20:00",
   "owner": "이준석",
   "items": [
     {
@@ -223,10 +223,12 @@
       "reviewEnd": "",
       "winners": 50,
       "applicants": 10143,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6ae4194b291df432e3cde05e",
-      "note": "가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집"
+      "note": "가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "kakao-6acf455a",
@@ -455,10 +457,12 @@
       "reviewEnd": "",
       "winners": 50,
       "applicants": 7579,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6abf5538866d6de45c912151",
-      "note": "공용 · 가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집"
+      "note": "공용 · 가격 미확인 · 5만원 초과 시 제세공과금 22% 대상 · 배송지: 집",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "kakao-6accca93",
@@ -489,10 +493,12 @@
       "reviewEnd": "2026-12-13",
       "winners": 20,
       "applicants": 1352,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50203?gf=M",
-      "note": "이벤트 50203 · 49,900원 · 신청 시점 경쟁률"
+      "note": "이벤트 50203 · 49,900원 · 신청 시점 경쟁률",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50197",
@@ -505,10 +511,12 @@
       "reviewEnd": "2026-12-13",
       "winners": 20,
       "applicants": 1509,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50197?gf=M",
-      "note": "이벤트 50197 · 49,900원"
+      "note": "이벤트 50197 · 49,900원",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50213",
@@ -521,10 +529,12 @@
       "reviewEnd": null,
       "winners": 20,
       "applicants": 1669,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50213?gf=M",
-      "note": "이벤트 50213 · 48,000원 · 후기 기간 미확인"
+      "note": "이벤트 50213 · 48,000원 · 후기 기간 미확인",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50040",
@@ -537,10 +547,12 @@
       "reviewEnd": null,
       "winners": 15,
       "applicants": 1327,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50040?gf=M",
-      "note": "이벤트 50040 · 56,000원 · 후기 기간 미확인"
+      "note": "이벤트 50040 · 56,000원 · 후기 기간 미확인",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50085",
@@ -553,10 +565,12 @@
       "reviewEnd": null,
       "winners": 5,
       "applicants": 2110,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": true,
       "url": "https://www.musinsa.com/preuser/events/50085?gf=M",
-      "note": "이벤트 50085 · 299,000원 · 제세공과금 22% · 후기 기간 미확인"
+      "note": "이벤트 50085 · 299,000원 · 제세공과금 22% · 후기 기간 미확인",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50087",
@@ -569,10 +583,12 @@
       "reviewEnd": null,
       "winners": 5,
       "applicants": 2370,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": true,
       "url": "https://www.musinsa.com/preuser/events/50087?gf=M",
-      "note": "이벤트 50087 · 199,000원 · 제세공과금 22% · 후기 기간 미확인"
+      "note": "이벤트 50087 · 199,000원 · 제세공과금 22% · 후기 기간 미확인",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50053",
@@ -701,10 +717,12 @@
       "reviewEnd": "2026-12-13",
       "winners": 10,
       "applicants": 6870,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://www.musinsa.com/preuser/events/50205?gf=M",
-      "note": "이벤트 50205"
+      "note": "이벤트 50205",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-49719",
@@ -837,10 +855,12 @@
       "reviewEnd": "2026-12-13",
       "winners": 5,
       "applicants": 7353,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": true,
       "url": "https://www.musinsa.com/preuser/events/50086?gf=M",
-      "note": "이벤트 50086 · 279,000원 · 발송 11-27"
+      "note": "이벤트 50086 · 279,000원 · 발송 11-27",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50088",
@@ -853,10 +873,12 @@
       "reviewEnd": "2026-12-13",
       "winners": 5,
       "applicants": 7756,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": true,
       "url": "https://www.musinsa.com/preuser/events/50088?gf=M",
-      "note": "이벤트 50088 · 259,000원 · 발송 11-27"
+      "note": "이벤트 50088 · 259,000원 · 발송 11-27",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-49918",
@@ -963,10 +985,12 @@
       "announceAt": "2026-11-25",
       "winners": 10,
       "applicants": 5622,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": true,
       "url": "https://www.musinsa.com/preuser/events/50222?gf=M",
-      "note": "이벤트 50222 · 71,000원"
+      "note": "이벤트 50222 · 71,000원",
+      "resultAt": "2026-11-25",
+      "updatedAt": "2026-11-25T14:20:00"
     },
     {
       "id": "musinsa-50262",
