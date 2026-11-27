@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:15:00",
+  "updatedAt": "2026-11-27T14:30:00",
   "owner": "이준석",
   "items": [
     {
@@ -623,10 +623,12 @@
       "reviewEnd": null,
       "winners": 50,
       "applicants": 2432,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6af6c270ac07337ba0c765db",
-      "note": "카카오 선물하기 · 신청 시점 경쟁률"
+      "note": "카카오 선물하기 · 신청 시점 경쟁률",
+      "resultAt": "2026-11-27",
+      "updatedAt": "2026-11-27T14:30:00"
     },
     {
       "id": "kakao-6adaf88d",
@@ -639,10 +641,12 @@
       "reviewEnd": null,
       "winners": 30,
       "applicants": 2212,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6adaf88de2e04c68c4b78e31",
-      "note": "카카오 선물하기"
+      "note": "카카오 선물하기",
+      "resultAt": "2026-11-27",
+      "updatedAt": "2026-11-27T14:30:00"
     },
     {
       "id": "kakao-6ad9c311",
@@ -655,10 +659,12 @@
       "reviewEnd": null,
       "winners": 15,
       "applicants": 1872,
-      "status": "applied",
+      "status": "lost",
       "taxNotice": false,
       "url": "https://gift.kakao.com/giftbox/trial-campaign/6ad9c311a6b18012e9db2252",
-      "note": "카카오 선물하기"
+      "note": "카카오 선물하기",
+      "resultAt": "2026-11-27",
+      "updatedAt": "2026-11-27T14:30:00"
     },
     {
       "id": "musinsa-50244",
